@@ -1,0 +1,7 @@
+{
+  "name": "Datamind AI",
+  "description": "A powerful AI suite to generate realistic voices, create stunning images from text, edit existing images with prompts, and transcribe audio in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
